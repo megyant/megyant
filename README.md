@@ -9,7 +9,7 @@ MSc in Developmental and Evolutionary Biology 🪰. Love to talk about how compl
 ![Python](https://img.shields.io/badge/beginner-megyant?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=%23F2AA4C&color=%23F2AA4C)
 
 ## Check out my current work 🐾
-![github repo](https://img.shields.io/badge/megyant-github?style=for-thebadge&logo=github&logoColor=white&label=Github&labelColor=%23101820&color=%23F2AA4C&link=https%3A%2F%2Fgithub.com%2Fmegyant%3Ftab%3Drepositories)
+![github repo](https://img.shields.io/badge/megyant-github?style=for-the-badge&logo=github&logoColor=white&label=Github&labelColor=%23101820&color=%23F2AA4C&link=https%3A%2F%2Fgithub.com%2Fmegyant%3Ftab%3Drepositories)
 
 ## Want to know more?
 
