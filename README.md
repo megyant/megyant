@@ -11,9 +11,11 @@ MSc in Developmental and Evolutionary Biology 🪰. Love to talk about how compl
 ## Check out my current work 🐾
 ![github repo](https://img.shields.io/badge/megyant-github?style=for-the-badge&logo=github&logoColor=white&label=Github&labelColor=%23101820&color=%23F2AA4C&link=https%3A%2F%2Fgithub.com%2Fmegyant%3Ftab%3Drepositories)
 
+---
+
 ## Want to know more?
 
-<a href="https://www.linkedin.com/in/margaridaant/">
+<a href="https://www.linkedin.com/in/margaridaant">
   <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
