@@ -18,7 +18,7 @@ Starting my programming journey as a student of 42Lisboa 😁. Always ready to l
 ## Want to know more?
 
 <a href="https://www.linkedin.com/in/margaridaant">
-  <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+  <img height="32" align="left" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" />
 </a>
 
 <!--
