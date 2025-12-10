@@ -4,6 +4,8 @@ MSc in Developmental and Evolutionary Biology 🪰. Love to talk about how compl
   
 Starting my programming journey as a student of 42Lisboa 😁. Always ready to learn!
 
+---
+
 ## Skills 🌿
 
 ![C](https://img.shields.io/badge/beginner-megyant?style=for-the-badge&logo=C&logoColor=white&logoSize=auto&labelColor=%23F2AA4C&color=%23F2AA4C)
