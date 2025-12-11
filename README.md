@@ -9,7 +9,7 @@ Starting my programming journey as a student of 42Lisboa 😁. Always ready to l
 ## Skills 🌿
 
 ![C](https://img.shields.io/badge/beginner-megyant?style=for-the-badge&logo=C&logoColor=white&logoSize=auto&labelColor=%23F2AA4C&color=%23F2AA4C)
-![R](https://img.shields.io/badge/beginner-megyant?style=for-the-badge&logo=rstudioide&logoColor=white&logoSize=auto&labelColor=%23101820&color=%23101820)
+![R](https://img.shields.io/badge/intermediate-megyant?style=for-the-badge&logo=rstudioide&logoColor=white&logoSize=auto&labelColor=%23101820&color=%23101820)
 ![Python](https://img.shields.io/badge/beginner-megyant?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=%23F2AA4C&color=%23F2AA4C)
 
 ## Check out my current work 🐾
