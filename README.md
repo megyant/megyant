@@ -1,6 +1,6 @@
 ## Hi, I'm Margarida 👋
 
-MSc in Developmental and Evolutionary Biology 🪰. Love to talk about how complex and interesting life is! 
+MSc in Developmental and Evolutionary Biology 🪰. Love to talk about how complex and interesting all beings are! 
   
 Starting my programming journey as a student of 42Lisboa 😁. Always ready to learn!
 
