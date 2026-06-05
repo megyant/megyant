@@ -4,7 +4,8 @@
   
 With a background in Evolution and Development (MSc in Biology), I am currently transitioning into software engineering at 42 Lisboa. My academic training taught me how to analyze complex biological systems, a mindset I now use when figuring out how to build clean, structured code.
 
-Currently Studiyng at:  
+Currently in Milestone 3, studying at:  
+  
 ![42](https://img.shields.io/badge/-Lisboa-%23101820?style=for-the-badge&logo=42&logoColor=white)  
 
 ---
@@ -13,9 +14,9 @@ Currently Studiyng at:
 ![C](https://img.shields.io/badge/C-%23F2AA4C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=%23101820)
 ![R](https://img.shields.io/badge/R-%23F2AA4C.svg?style=for-the-badge&logo=r&logoColor=white&labelColor=%23101820)
 ![Python](https://img.shields.io/badge/python-%23F2AA4C.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=%23101820)
-
----
-
+  
+-- 
+  
 ## ⚡️Skills
 
 Domain | Technologies |
@@ -26,7 +27,7 @@ Domain | Technologies |
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Some Projects
 
 ### [Codexion: Multithreading](https://github.com/megyant/42_Codexion)
 A multi-threaded simulation exploring POSIX concurrency and resource management. In this project, coder threads compete for limited USB dongles to complete tasks before their burnout threshold (deadline) is reached.
@@ -37,9 +38,9 @@ Python-based project designed to explore the mechanics of maze generation. In th
 
 ### [Push-Swap: Sorting algorithm](https://github.com/megyant/42_push_swap)
 Efficient sorting utility designed to order a set of integers using two stacks and a restricted set of operations. The primary objective is to implement a sorting algorithm optimized for minimal instruction counts.
-
-
-
+  
+  
+  
 Want to know more? Check out my repositories at:  
   
 ![github repo](https://img.shields.io/badge/megyant-github?style=for-the-badge&logo=github&logoColor=white&label=Github&labelColor=%23101820&color=%23F2AA4C&link=https%3A%2F%2Fgithub.com%2Fmegyant%3Ftab%3Drepositories)
