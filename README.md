@@ -2,7 +2,7 @@
 
 ### 🧬 Biologist beginning my journey as a Software Developer 💻
   
-With a background in Evolution and Development (MSc in Biology), I am currently transitioning into software engineering at 42 Lisboa. My academic training taught me how to analyze complex biological systems, a mindset I now use when figuring out how to build clean, structured code.
+MSc in Evolution and Development, I am currently transitioning into software development at 42 Lisboa. My time in academia allowed me to think critically, ask questions and analyse our complex world and all the life forms that inhabit it. I'm now bringing and using this mindset into figuring out how to code.
 
 Currently in Milestone 3, studying at:  
   
