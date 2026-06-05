@@ -2,11 +2,13 @@
 
 ### 🧬 Biologist beginning my journey as a Software Developer 💻
   
-MSc in Evolution and Development, I am currently transitioning into software development at 42 Lisboa. My time in academia allowed me to think critically, ask questions and analyse our complex world and all the life forms that inhabit it. I'm now bringing and using this mindset into figuring out how to code.
+MSc in Evolution and Development, I am currently adding software development to my portfolio. My time in academia allowed me to think critically, ask questions and analyse our complex world and all the life forms that inhabit it. I'm now bringing and using this mindset into figuring out how to code.
 
-Currently in Milestone 3, studying at:  
+Currently studying at:  
   
 ![42](https://img.shields.io/badge/-Lisboa-%23101820?style=for-the-badge&logo=42&logoColor=white)  
+  
+(Milestone 3)  
 
 ---
 
