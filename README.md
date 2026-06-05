@@ -33,7 +33,7 @@ Domain | Technologies |
 A multi-threaded simulation exploring POSIX concurrency and resource management. In this project, coder threads compete for limited USB dongles to complete tasks before their burnout threshold (deadline) is reached.
 
 
-### [A-maze-ing: Labyrinth and path-finding](https://github.com/megyant/42_A-maze-ing)
+### [A-maze-ing: Maze-creation and path-finding](https://github.com/megyant/42_A-maze-ing)
 Python-based project designed to explore the mechanics of maze generation. In this project a maze can be generated and its path is found.
 
 ### [Push-Swap: Sorting algorithm](https://github.com/megyant/42_push_swap)
