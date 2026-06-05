@@ -23,7 +23,7 @@ Currently studying at:
 
 Domain | Technologies |
 | :--- | :--- |
-| **Data & Modeling** | pydantic, ggplot2, , knitr, tidyr and dplyr |
+| **Data & Modeling** | pydantic, ggplot2, knitr, tidyr and dplyr |
 | **Graphics & Simulation** | Pygame, Ascii |
 | **Environment** | Linux, Bash, Git |
 
