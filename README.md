@@ -41,8 +41,8 @@ Efficient sorting utility designed to order a set of integers using two stacks a
   
 ### [Data Analysis of infection in *Drosophila* with knocked down olfactory receptors](https://github.com/megyant/Thesis_data_analysis)
 Analysis of the consequences of knocking down olfactory receptors in *D. melanogaster* and infecting them with *Pseudomonas entomophila*, a pathogenic gram-negative bacterium.
-  
-  
+
+--
   
 Want to know more? Check out my repositories at:  
   
