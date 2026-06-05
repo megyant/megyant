@@ -1,6 +1,6 @@
 ## Hi, I'm Margarida 👋
 
-### 🧬 Biologist begginning my journey as a Software Developer 💻
+### 🧬 Biologist beginning my journey as a Software Developer 💻
   
 With a background in Evolution and Development (MSc in Biology), I am currently transitioning into software engineering at 42 Lisboa. My academic training taught me how to analyze complex biological systems, a mindset I now use when figuring out how to build clean, structured code.
 
