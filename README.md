@@ -7,8 +7,6 @@ MSc in Evolution and Development, I am currently adding software development to 
 Currently studying at:  
   
 ![42](https://img.shields.io/badge/-Lisboa-%23101820?style=for-the-badge&logo=42&logoColor=white)  
-  
-(Milestone 3)  
 
 ---
 
