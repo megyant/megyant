@@ -27,20 +27,29 @@ Domain | Technologies |
 
 ---
 
-## 🚀 Some Projects
+## 🚀 Projects
 
-### [Codexion: Multithreading](https://github.com/megyant/42_Codexion)
+### LLM
+- **[Call-me-maybe](https://github.com/megyant/42_Call_me_maybe)**
+Translation of natural-language prompts into structured function calls using constrained decoding on a small language model.
+
+### Multithreading
+- **[Codexion](https://github.com/megyant/42_Codexion)**  
 A multi-threaded simulation exploring POSIX concurrency and resource management. In this project, coder threads compete for limited USB dongles to complete tasks before their burnout threshold (deadline) is reached.
 
-
-### [A-maze-ing: Maze-creation and path-finding](https://github.com/megyant/42_A-maze-ing)
+### Pathfinding
+- **[Fly-in](https://github.com/megyant/42_Fly-in)**  
+Optimized routing system designed to navigate a fleet of autonomous drones from a starting base to a target location.
+- **[A-maze-ing](https://github.com/megyant/42_A-maze-ing)**  
 Python-based project designed to explore the mechanics of maze generation. In this project a maze can be generated and its path is found.
 
-### [Push-Swap: Sorting algorithm](https://github.com/megyant/42_push_swap)
+### Sorting Algorithn
+- **[Push-Swap](https://github.com/megyant/42_push_swap)**
 Efficient sorting utility designed to order a set of integers using two stacks and a restricted set of operations. The primary objective is to implement a sorting algorithm optimized for minimal instruction counts.
-  
-### [Data Analysis of infection in *Drosophila* with knocked down olfactory receptors](https://github.com/megyant/Thesis_data_analysis)
-Analysis of the consequences of knocking down olfactory receptors in *D. melanogaster* and infecting them with *Pseudomonas entomophila*, a pathogenic gram-negative bacterium.
+
+### Survival Analysis
+- **[Data Analysis of infection in *Drosophila* with knocked down olfactory receptors](https://github.com/megyant/Thesis_data_analysis)**  
+Surviving analysis, knocking down olfactory receptors in *D. melanogaster* and studying infection by *Pseudomonas entomophila*, a pathogenic gram-negative bacterium.
 
 --
   
