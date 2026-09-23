@@ -43,11 +43,11 @@ Optimized routing system designed to navigate a fleet of autonomous drones from 
 - **[A-maze-ing](https://github.com/megyant/42_A-maze-ing)**  
 Python-based project designed to explore the mechanics of maze generation. In this project a maze can be generated and its path is found.
 
-### Sorting Algorithn
+### Sorting Algorithm  
 - **[Push-Swap](https://github.com/megyant/42_push_swap)**
 Efficient sorting utility designed to order a set of integers using two stacks and a restricted set of operations. The primary objective is to implement a sorting algorithm optimized for minimal instruction counts.
 
-### Subnetting
+### Subnetting  
 - **[Netpractice](https://github.com/megyant/42_netpractice)**
 Networking project focused on understanding network addressing, subnetting, and routing principles.
 
