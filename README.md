@@ -47,6 +47,10 @@ Python-based project designed to explore the mechanics of maze generation. In th
 - **[Push-Swap](https://github.com/megyant/42_push_swap)**
 Efficient sorting utility designed to order a set of integers using two stacks and a restricted set of operations. The primary objective is to implement a sorting algorithm optimized for minimal instruction counts.
 
+### Subnetting
+- **[Netpractice](https://github.com/megyant/42_netpractice)**
+Networking project focused on understanding network addressing, subnetting, and routing principles.
+
 ### Survival Analysis
 - **[Data Analysis of infection in *Drosophila* with knocked down olfactory receptors](https://github.com/megyant/Thesis_data_analysis)**  
 Surviving analysis, knocking down olfactory receptors in *D. melanogaster* and studying infection by *Pseudomonas entomophila*, a pathogenic gram-negative bacterium.
