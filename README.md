@@ -1,8 +1,8 @@
 ## Hi, I'm Margarida 👋
 
-### 🧬 Biologist beginning my journey as a Software Developer 💻
+### 🧬 Biologist learning more about software and data 💻 📊
   
-MSc in Evolution and Development, I am currently adding software development to my portfolio. My time in academia allowed me to think critically, ask questions and analyse our complex world and all the life forms that inhabit it. I'm now bringing and using this mindset into figuring out how to code.
+MSc in Evolution and Development, with hands-on experience on experimental design and analysing my own data in R, from survival analysis to mixed-effects models. I'm now studying software engineering full-time at 42 Lisboa, adding Python and C to my toolkit.  
 
 Currently studying at:  
   
@@ -37,7 +37,7 @@ Translation of natural-language prompts into structured function calls using con
 - **[Infection in *Drosophila* with knocked down olfactory receptors](https://github.com/megyant/Thesis_data_analysis)**  
 Survival analysis of 43 *D. melanogaster* lines with RNAi-knocked-down olfactory receptors, infected with the gram-negative pathogen *Pseudomonas entomophila*. Follows 5,875 flies across 4 experimental blocks, using Kaplan-Meier curves, Cox models and clustering to compare lines and sexes in R.
 
-- **[Effect of Fertiliser and Spider mites in the growth of *Brassica rapa*](https://github.com/megyant/Analysis_Brassica_Mites_Interactions)**
+- **[Effect of Fertiliser and Spider mites in the growth of *Brassica rapa*](https://github.com/megyant/Analysis_Brassica_Mites_Interactions)**  
 Factorial experiment on 360 *Brassica rapa* plants testing how fertiliser and spider mites from different host plants (bean, tomato) affect growth over time. Analysed in R with linear mixed-effects models and post-hoc comparisons.
 
 ### Multithreading
