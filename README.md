@@ -33,6 +33,13 @@ Domain | Technologies |
 - **[Call-me-maybe](https://github.com/megyant/42_Call_me_maybe)**  
 Translation of natural-language prompts into structured function calls using constrained decoding on a small language model.
 
+### Data Analysis
+- **[Infection in *Drosophila* with knocked down olfactory receptors](https://github.com/megyant/Thesis_data_analysis)**  
+Survival analysis of 43 *D. melanogaster* lines with RNAi-knocked-down olfactory receptors, infected with the gram-negative pathogen *Pseudomonas entomophila*. Follows 5,875 flies across 4 experimental blocks, using Kaplan-Meier curves, Cox models and clustering to compare lines and sexes in R.
+
+- **[Effect of Fertiliser and Spider mites in the growth of *Brassica rapa*](https://github.com/megyant/Analysis_Brassica_Mites_Interactions)**
+Factorial experiment on 360 *Brassica rapa* plants testing how fertiliser and spider mites from different host plants (bean, tomato) affect growth over time. Analysed in R with linear mixed-effects models and post-hoc comparisons.
+
 ### Multithreading
 - **[Codexion](https://github.com/megyant/42_Codexion)**  
 A multi-threaded simulation exploring POSIX concurrency and resource management. In this project, coder threads compete for limited USB dongles to complete tasks before their burnout threshold (deadline) is reached.
@@ -50,10 +57,6 @@ Efficient sorting utility designed to order a set of integers using two stacks a
 ### Subnetting  
 - **[Netpractice](https://github.com/megyant/42_netpractice)**  
 Networking project focused on understanding network addressing, subnetting, and routing principles.
-
-### Survival Analysis
-- **[Data Analysis of infection in *Drosophila* with knocked down olfactory receptors](https://github.com/megyant/Thesis_data_analysis)**  
-Surviving analysis, knocking down olfactory receptors in *D. melanogaster* and studying infection by *Pseudomonas entomophila*, a pathogenic gram-negative bacterium.
 
 --
   
